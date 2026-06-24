@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Panduru%20Aadhithya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20Document%20Intelligence%20%7C%20NLP%20%26%20LLM%20Systems&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=twinkling" width="100%"/>
 
-</div>
-
-<div align="center">
+<h1>Panduru Aadhithya</h1>
+<p><b>AI/ML Engineer | Document Intelligence | NLP &amp; LLM Systems</b></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Undergrad+%7C+CGPA+8.41%2F10;Building+Document+Intelligence+%26+NLP+Systems;Exploring+RAG%2C+LLMs+%26+Prompt+Engineering;Turning+Unstructured+Text+Into+Structured+Insight)](https://git.io/typing-svg)
 
@@ -113,7 +112,7 @@ print(me.motto())
 
 <br/>
 
-## 🎓 Certifications & Activities
+## 💼 Experience & Certifications
 
 <details>
 <summary><b>Deloitte Australia — Data Analytics Job Simulation (Forage)</b></summary>
